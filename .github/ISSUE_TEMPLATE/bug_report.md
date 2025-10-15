@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report template
 about: 改善のためのレポートを作成してください。
 title: "[Bug]"
 labels: bug

@@ -1,4 +1,4 @@
-name: Bug imput Form
+name: Bug input Form
 description: File a bug/issue
 title: "[BUG] <title>"
 labels: ["Bug", "Needs Triage"]
